@@ -1,17 +1,17 @@
 
-# class User
+class User
 
-# 	# attr_reader :name
+	# attr_reader :name
 
-# 	#Attribute Writer
-# 	def name=(value)
-# 		if value.empty?
-# 			raise "Name can't be blank."
-# 		end
-# 		@name = value
-# 	end
+	#Attribute Writer
+	def name=(value)
+		if value.empty?
+			raise "Name can't be blank."
+		end
+		@name = value
+	end
 
-# end
+end
 
 class Obuk
 	attr_reader :name
