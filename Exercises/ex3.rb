@@ -10,4 +10,4 @@ puts "OOh nowonder"
 #I now get it
 puts "Okay some more examples sounds cool"
 puts "This is how big you head is: #{355353+67} gallons"
-puts "#{9<0} her head ain that big. Don't be #{2} mean!"
+puts "#{9<0} her head ain that big. Don't be #{2.0} mean!"
