@@ -5,5 +5,5 @@ puts prices[2]
 
 prices[5] = 44.66
 puts prices.first
-puts prices.last
+
 puts prices.length
