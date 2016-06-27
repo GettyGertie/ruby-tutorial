@@ -4,6 +4,7 @@ puts prices[1]
 puts prices[2]
 
 prices.push(0.99)
+prices.pop
 prices[5] = 44.66
 puts prices
 
