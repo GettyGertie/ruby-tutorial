@@ -3,13 +3,13 @@ File.open("votes.txt") do |file|
   lines = file.readlines
 end
 
-votes = []
+votes = {}
 lines.each do |line|
   name = line.chomp
   if votes[name] != nil
     votes[name] +=1
   else
-    votes[name = 1]
+    votes[name] = 1
   end
 end
 puts votes
