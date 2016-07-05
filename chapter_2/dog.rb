@@ -7,4 +7,8 @@ class dog
 	def walk(destination)
 		puts "The dog has reached #{destination}"
 	end
+
+    def mate
+      puts "The dogs are mating"
+    end
 end
