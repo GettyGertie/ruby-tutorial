@@ -1,0 +1,4 @@
+I want to resd this
+using my ex15.rb file.
+Is it possible?
+Only one way to discover that.
